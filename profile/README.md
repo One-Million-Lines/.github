@@ -29,15 +29,9 @@ Think of it as a **workshop**, not a product.
 
 https://onemillionlines.com/projects
 
-
-Each project contains:
-- Its own README
-- Clear scope and goals
-- Current status (idea / WIP / shipped)
-- How to use it
-- How to support it
-
 You can support one project, multiple projects, or the whole initiative.
+
+The main project that made me build this is ActorDo > Work Assistant for busy professionals.
 
 ---
 
